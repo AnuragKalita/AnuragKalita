@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnuragKalita
-- 👀 I’m interested in AI/Creating Simple Webpages
-- 🌱 I’m currently learning HTML/CSS/Python/MySQL
-- 💞️ My dream is to work on Google as a Software Engineer
+- 👀 I’m interested in learning programming languages
+- 🌱 I’m currently learning HTML/CSS/Python/MySQL/JavaScript/C/C#
+- 💞️ 
 - 📫 How to reach me 7896305152
 
 <!---
