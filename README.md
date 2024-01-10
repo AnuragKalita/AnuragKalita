@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnuragKalita
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning HTML/CSS/Python/MySQL/JavaScript/C/C++
+- 👀 I’m interested in Data Science, AI & Machine Learning
+- 🌱 I’m currently learning HTML/CSS/Python/MySQL/JavaScript/C/C++/Java
 - 📫 How to reach me 7896305152 & anuragaw4806@gmail.com
 
 <!---
